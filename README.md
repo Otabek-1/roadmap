@@ -13,13 +13,13 @@ Before learning AI/ML, you should be comfortable with Python fundamentals.
 
 Topics to learn:
 
-- Variables and data types
-- Loops and conditionals
-- Functions
-- Object-Oriented Programming (OOP)
-- File handling
-- Virtual environments
-- Modules and packages
+- Variables and data types ✔️
+- Loops and conditionals ✔️
+- Functions ✔️
+- Object-Oriented Programming (OOP) ✔️
+- File handling ✔️
+- Virtual environments ✔️
+- Modules and packages ✔️
 
 ### Important Python Libraries
 
