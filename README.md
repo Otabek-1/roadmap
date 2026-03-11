@@ -23,8 +23,8 @@ Topics to learn:
 
 ### Important Python Libraries
 
-- **NumPy** — numerical computing
-- **Pandas** — data analysis
+- **NumPy** — numerical computing ✔️
+- **Pandas** — data analysis ✔️
 - **Matplotlib / Seaborn** — data visualization
 
 ### Practice Projects
