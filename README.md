@@ -25,7 +25,7 @@ Topics to learn:
 
 - **NumPy** — numerical computing ✔️
 - **Pandas** — data analysis ✔️
-- **Matplotlib / Seaborn** — data visualization
+- **Matplotlib / Seaborn** — data visualization ✔️
 
 ### Practice Projects
 
