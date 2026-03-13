@@ -29,9 +29,9 @@ Topics to learn:
 
 ### Practice Projects
 
-- Analyze a dataset
-- Clean messy data
-- Create data visualizations
+- Analyze a dataset ✔️
+- Clean messy data ✔️
+- Create data visualizations ✔️
 
 ---
 
