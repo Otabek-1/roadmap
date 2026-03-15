@@ -41,24 +41,24 @@ AI relies heavily on mathematics. Focus on these topics:
 
 ### Linear Algebra
 
-- Vectors
-- Matrices
-- Dot product
-- Matrix multiplication
-
+- Vectors ✔️
+- Matrices ✔️
+- Dot product ✔️
+- Matrix multiplication ✔️
+ 
 ### Probability & Statistics
 
-- Mean
-- Variance
-- Standard deviation
-- Distributions
-- Correlation
+- Mean ✔️
+- Variance ✔️
+- Standard deviation ✔️
+- Distributions ✔️
+- Correlation ✔️
 
 ### Calculus (Basic)
 
-- Derivatives
-- Gradients
-- Optimization
+- Derivatives ✔️
+- Gradients ✔️
+- Optimization ✔️
 
 ---
 
