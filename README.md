@@ -68,30 +68,30 @@ Before building ML models, you must understand data.
 
 Key skills:
 
-- Data cleaning
-- Data transformation
-- Exploratory Data Analysis (EDA)
-- Data visualization
+- Data cleaning ✔️
+- Data transformation ✔️
+- Exploratory Data Analysis (EDA) ✔️
+- Data visualization ✔️
 
 ### Tools
 
-- Pandas
-- Matplotlib
-- Seaborn
+- Pandas ✔️
+- Matplotlib ✔️
+- Seaborn ✔️
 
 ### Example Project
 
 Dataset analysis project:
 
-- Student performance dataset
-- Sales data
-- Health dataset
+- Student performance dataset ✔️
+- Sales data ✔️
+- Health dataset ✔️
 
 Goals:
 
-- Find patterns
-- Visualize insights
-- Create summary statistics
+- Find patterns ✔️
+- Visualize insights ✔️
+- Create summary statistics ✔️
 
 ---
 
